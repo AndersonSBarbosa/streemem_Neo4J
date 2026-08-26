@@ -8,7 +8,7 @@ O objetivo é explorar relacionamentos entre usuários, conteúdos, gêneros, at
 
 ## 📷 Modelo do Grafo
 
-![Modelo do Grafo](download.png)
+![Modelo do Grafo](download2.png)
 
 ---
 
